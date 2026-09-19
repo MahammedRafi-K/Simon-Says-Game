@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+.buttons {
+    width:100px;
+    height:100px;
+    border: 2px solid black;
+    border-radius: 10%;
+    margin: 0.7rem;
+}
+.main-container {
+    display: flex;
+    justify-content: center;
+}
+
+.red {
+    background-color: red;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.flash {
+    background-color: white;
+}
+
+.Userflash {
+    background-color: green;
+}
